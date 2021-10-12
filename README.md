@@ -23,5 +23,5 @@
 ### Disclaimer: Google Earth Engine maps will not display on GitHub. 
 Screenshots for night-time lights added below, sorry for the inconvenience.
 
-[](https://github.com/statxsphere/bsa_assignment/blob/main/images/change_ntl.JPG)
-[](https://github.com/statxsphere/bsa_assignment/blob/main/images/diff_ntl.JPG)
+![](https://github.com/statxsphere/bsa_assignment/blob/main/images/change_ntl.JPG)
+![](https://github.com/statxsphere/bsa_assignment/blob/main/images/diff_ntl.JPG)
