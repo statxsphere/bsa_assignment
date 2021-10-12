@@ -20,7 +20,7 @@
 * Geopandas
 
 
-### Disclaimer: Google Earth Engine maps will not display on GitHub. 
+### Disclaimer: Google Earth Engine maps will not display on GitHub, please run on Google Colab for best experience. 
 Screenshots for night-time lights added below, sorry for the inconvenience.
 
 ![](https://github.com/statxsphere/bsa_assignment/blob/main/images/change_ntl.JPG)
